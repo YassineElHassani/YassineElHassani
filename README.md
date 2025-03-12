@@ -85,12 +85,9 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YassineElHassani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" alt="yassineelhassani" /></p>
-
-
-
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=YassineElHassani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yassineelhassani&show_icons=true&locale=en" alt="stats graph" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=YassineElHassani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150"   /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineElHassani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=YassineElHassani&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=YassineElHassani&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
