@@ -4,17 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://linkedin.com/in/el-hassani-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-hassani-yassine" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/29928693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29928693" height="30" width="40" /></a>
-  <a href="https://medium.com/@ya.elhassani403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ya.elhassani403" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/yassine_ds_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yassine_ds_404" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dbfghktbsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dbfghktbsr" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/jinr0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jinr0x" height="30" width="40" /></a>
-</div>
-
-###
-
 <br clear="both">
 
 ###
@@ -28,6 +17,25 @@
 ###
 
 <p align="left">I'm Yassine El hassani, A passionate Full-stack developer from Morocco<br><br>- 📚 I'm currently studying at YouCode<br>- ⚡ In my free time I experiment with new coding challenges<br>- 🔭  I'm so interested about about emerging tech (blockchain, AI, cybersecurity)<br>- 💡 I work on side projects (small apps, open source contributions)<br>- 🎧 Listen to podcasts or music (tech talks, crypto news, or just vibing)</p>
+
+###
+
+<h3 align="left">📧  Find Me On</h3>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/el-hassani-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-hassani-yassine" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/29928693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29928693" height="30" width="40" /></a>
+  <a href="https://medium.com/@ya.elhassani403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ya.elhassani403" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/yassine_ds_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yassine_ds_404" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/dbfghktbsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dbfghktbsr" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/jinr0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jinr0x" height="30" width="40" /></a>
+</div>
+
+###
+
+<br clear="both">
 
 ###
 
