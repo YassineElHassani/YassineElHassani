@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRqejRsMTZhdDhqdDlwN2l0OGpndnY0MzAzaXRlZzNwODFmOWZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5J519F41CeH6o0mCr/giphy.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there</h1>
 
 ###
 
