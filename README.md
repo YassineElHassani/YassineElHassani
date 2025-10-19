@@ -26,7 +26,7 @@
   <a href="https://medium.com/@ya.elhassani403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ya.elhassani403" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/yassine_ds_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yassine_ds_404" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/dbfghktbsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dbfghktbsr" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/jinr0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jinr0x" height="30" width="40" /></a>
+  <!-- <a href="https://discordapp.com/users/jinr0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jinr0x" height="30" width="40" /></a> -->
 </div>
 
 ###
