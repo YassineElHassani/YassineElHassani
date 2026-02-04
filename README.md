@@ -150,20 +150,16 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YassineElHassani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YassineElHassani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineElHassani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YassineElHassani&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=YassineElHassani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YassineElHassani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
@@ -173,12 +169,11 @@
 ###
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yassineelhassani&show_icons=true&locale=en" alt="stats graph" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=YassineElHassani&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineElHassani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
-<!-- <img src="https://streak-stats.demolab.com?user=YassineElHassani&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <img src="https://github-profile-trophy.vercel.app?username=YassineElHassani&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassineElHassani&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+
+  ![](https://github-readme-stats.vercel.app/api?username=YassineElHassani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=YassineElHassani&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineElHassani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ###
