@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Yassine El hassani, A passionate Full-stack developer from Morocco<br><br>- 📚 I'm currently studying at YouCode<br>- ⚡ In my free time I experiment with new coding challenges<br>- 🔭  I'm so interested about emerging tech (blockchain, AI, cybersecurity)<br>- 💡 I work on side projects (small apps, open source contributions)<br>- 🎧 Listen to podcasts or music (tech talks, crypto news, or just vibing)</p>
+<p align="left">I'm Yassine El hassani, A passionate Full-stack developer from Morocco<br><br>- 💻 I'm currently working as a Freelancer<br>- ⚡ In my free time I experiment with new coding challenges<br>- 🔭  I'm so interested about emerging tech (blockchain, AI, cybersecurity)<br>- 💡 I work on side projects (small apps, open source contributions)<br>- 🎧 Listen to podcasts or music (tech talks, crypto news, or just vibing)</p>
 
 ###
 
